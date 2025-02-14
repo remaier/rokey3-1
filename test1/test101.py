@@ -1,1 +1,3 @@
 print("소스 코드 1")
+print("데이터 베이스 연결")
+print("select 연결")
